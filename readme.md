@@ -1,4 +1,4 @@
-<img width="100%" src=".image/banner/fernando-banner-up.jpg" border="0" />
+<img width="100%" src="./image/banner/fernando-banner-up.jpg" border="0" />
 
 
 <table>
