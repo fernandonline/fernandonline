@@ -10,5 +10,5 @@
 </a>
 
 <a href="www.linkedin.com/in/fernandonline" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="65em" />
+    <img src="https://img.shields.io/badge/(not recommended)-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="65em" />
 </a>
