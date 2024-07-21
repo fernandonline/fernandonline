@@ -10,8 +10,4 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="55em" />
 </a>
 
-<a href="https://x.com/fernandonfire" target="_blank">
-  <img src="https://img.shields.io/badge/(not recommended)-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="55em" />
-</a>
-
 </div>
