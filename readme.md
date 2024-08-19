@@ -1,14 +1,14 @@
-<img width="100%" src="./image/banner/fernando-banner-up.jpg" border="0" />
+<a href="https://fernando-online.web.app" >
+  <img width="100%" border="0" src="./image/banner/fernando-banner-up.jpg"/>
+</a>
+
+###
 
 <div align="center" width="100vw">
-  
-  <a href="https://fernando-online.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="55em" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/fernandonline" target="_blank">
+  <a href="https://www.linkedin.com/in/fernandonline">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="55em" />
   </a>
+  
 </div>
 
 ###
