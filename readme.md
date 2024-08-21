@@ -4,9 +4,9 @@
 
 
 <div align="center" width="100vw">
-
+  
   <a href="https://www.linkedin.com/in/fernandonline">
-    <img src="./image/gifs/linkedin.gif"/>
+    <img height="50vh" src="./image/gifs/linkedin-banner.gif"/>
   </a>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true"/>
