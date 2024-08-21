@@ -2,15 +2,19 @@
   <img width="100%" border="0" src="./image/banner/fernando-banner-up.jpg"/>
 </a>
 
+<table>
 
-<div align="center" width="100vw">
-  
-  <a href="https://www.linkedin.com/in/fernandonline">
-    <img height="50vh" src="./image/gifs/linkedin-banner.gif"/>
-  </a>
+<tr>
+  <td width=50%>
+    <img heigth="50%" src="./image/gifs/hello.gif"/>
+    <a href="https://www.linkedin.com/in/fernandonline"><img width=100% src="./image/gifs/linkedin-banner.gif"/> </a>
+  </td>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true"/>
-</div>
+  <td width=50% align="center"><img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true"/>
+  </td>
+</tr>
+
+</table>
 
 ###
 
@@ -30,8 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"/>
   <img width="18" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-
-  <!--
+<!--
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
