@@ -2,19 +2,7 @@
   <img width="100%" border="0" src="./image/banner/fernando-banner-up.jpg"/>
 </a>
 
-<table>
-
-<tr>
-  <td width=50%>
-    <img heigth="50%" src="./image/gifs/hello.gif"/>
-    <a href="https://www.linkedin.com/in/fernandonline"><img width=100% src="./image/gifs/linkedin-banner.gif"/> </a>
-  </td>
-
-  <td width=50% align="center"><img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true"/>
-  </td>
-</tr>
-
-</table>
+<img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true"/>
 
 ###
 
