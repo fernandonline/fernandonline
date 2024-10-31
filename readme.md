@@ -33,7 +33,7 @@
 
 ## libs & frameworks
 
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="30" alt="vuejs logo"/>
+  <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="30" alt="vue logo"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo" />
   <!-- <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="node logo"/> -->
