@@ -2,18 +2,21 @@
   <img width="100%" border="0" src="./image/banner/fernando-banner-up.jpg"/>
 </a>
 
-## about
-Fullstack developer with experience in web development, working with technologies such as JavaScript, TypeScript, Vue, React, Node.js, C#, and .NET.
-I am interested in exploring multiplatform solutions, including web, desktop, and mobile. Always striving to learn more, grow technically,
-and apply best practices in development
+<img align="right" width=43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true"/>
 
-<img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true"/>
+## About
+Fullstack developer with experience in web development, working <br/>
+with technologies such as JavaScript, TypeScript, Vue, React, Node.js,<br/>
+C#, and .NET. I am interested in exploring multiplatform solutions,<br/>
+including web, desktop, and mobile. Always striving to learn more,<br/>
+grow technically, and apply best practices in development.<br/>
 
 ###
 
+
 <div align="left">
   
-## langs
+## Langs
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"/>
@@ -24,10 +27,10 @@ and apply best practices in development
 
 ###
 
-## libs & frameworks
+## Libs & Frameworks
 
   <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="30" alt="vue logo"/>
-  <!-- <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo"/> -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"/>
   <!-- <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="node logo"/> -->
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"/>
@@ -36,7 +39,7 @@ and apply best practices in development
 
 ###
 
-## tools & others
+## Tools & Others
 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"/>
   <!-- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="30" alt="visualstudio logo"/> -->
