@@ -2,13 +2,13 @@
   <img width="100%" border="0" src="./image/banner/fernando-banner-up.jpg"/>
 </a>
 
-<img align="right" width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true"/>
+<img align="right" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true"/>
 
 ## About
 Fullstack developer with experience in web development, working with
 technologies such as JavaScript, TypeScript, Node.js and dotnet. <br/>
 I am interested in exploring multiplatform solutions, including web, <br/>
-desktop, and mobile. Always striving to learn more, grow technically, <br/>
+desktop, and mobile. Always striving to learn more, grow technically <br/>
 and apply best practices in development.
 
 ###
