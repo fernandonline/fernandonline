@@ -2,6 +2,11 @@
   <img width="100%" border="0" src="./image/banner/fernando-banner-up.jpg"/>
 </a>
 
+## about
+Fullstack developer with experience in web development, working with technologies such as JavaScript, TypeScript, Vue, React, Node.js, C#, and .NET.
+I am interested in exploring multiplatform solutions, including web, desktop, and mobile. Always striving to learn more, grow technically,
+and apply best practices in development
+
 <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true"/>
 
 ###
