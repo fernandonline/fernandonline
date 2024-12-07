@@ -2,7 +2,7 @@
   <img width="100%" border="0" src="./image/banner/fernando-banner-up.jpg"/>
 </a>
 
-<img align="right" width=43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true"/>
+<img align="right" width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true"/>
 
 ## About
 Fullstack developer with experience in web development, working with
