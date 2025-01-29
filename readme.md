@@ -5,7 +5,11 @@
 ## About
 Fullstack developer with experience in web development, working with technologies such as JavaScript, TypeScript, Node.js and dotnet. I am interested in exploring multiplatform solutions, including web, desktop, and mobile. Always striving to learn more, grow technically and apply best practices in development.
 
-<img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true"/>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true" width="48%">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="25%">
+</div>
+
 
 ###
 
