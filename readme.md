@@ -52,7 +52,7 @@ Fullstack developer, working with JavaScript, TypeScript, and DotNet. I am inter
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="npm logo" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" height="30" alt="yarn logo"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="30" alt="postman logo"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"/>
+  <img src="https://img.shields.io/badge/Firebase-FF6C37?logo=firebase&logoColor=white&style=for-the-badge" height="30" alt="firebase logo"/>
 
 ###
 </div>
