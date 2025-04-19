@@ -1,9 +1,17 @@
 <a href="https://fernando-online.web.app" >
-  <img width="100%" border="0" src="./image/banner/fernando-banner-up.jpg"/>
+  <img width="100%" border="0" src="./assets/banner/fernando-banner-up.jpg"/>
 </a>
 
+<span
+  width="100%"
+  aling="center"
+  src="./assets/curriculum/Curriculum-Fernando.md"
+>
+  curriculum
+</span>
+
 ## About
-Fullstack developer, working with JavaScript, TypeScript, and DotNet. I am interested in exploring multiplatform solutions, including web, desktop, and mobile. Always striving to learn more, grow technically and apply best practices in development.
+I working with JavaScript, TypeScript and DotNet. Interested in exploring multiplatform solutions, including web, desktop, and mobile. Open to new learning opportunities and collaborations, let’s connect to discuss how I can contribute to your team’s success!
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true" width="48%">
