@@ -14,15 +14,14 @@ Aberto para novas oportunidades de aprendizado e colaborações, vamos conversar
 ## Habilidades
 - **Linguagens**: JavaScript, TypeScript, C# 
 - **Frontend**: Vue, Nuxt, React, Blazor
-- **Backend**: Express, Nest.js, ASP.NET
-- **Bancos de Dados**: PostgreSQL, SQL Server, SQLite
+- **Backend**: Express, Nest.js, ASP.NET, Rest API, SQL
 - **Mobile**: Capacitor, MAUI
 
 ## Projetos
 
 **Gasteio - Aplicativo de Controle Financeiro**:
 - **Tecnologias**: Vue, TypeScript, Capacitor
-- **Descrição**: Aplicativo mobile para gerenciar despesas pessoais, com categorização, registro de gastos (título, data, valor) e visualização de totais por categoria.
+- **Descrição**: Aplicativo mobile para gerenciar despesas pessoais, com registro de gastos (título, data, valor) e visualização de totais por categoria.
 - **Link**: [github.com/fernandonline/gasteio](https://github.com/fernandonline/gasteio)
 
 **To-Do List ASP.NET MVC**:
@@ -33,5 +32,5 @@ Aberto para novas oportunidades de aprendizado e colaborações, vamos conversar
 ## Certificações
 - Formação React ONE - Alura, 2024
 - Santander Tech+ Back-End - AdaTech, 2024
-- Fundamentos de ASP.NET Core – LinkedIn, 2025
+- Fundamentos de ASP.NET Core – Linkedin, 2025
 - Full Stack Developer – DIO, 2025
