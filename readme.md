@@ -2,13 +2,7 @@
   <img width="100%" border="0" src="./assets/banner/fernando-banner-up.jpg"/>
 </a>
 
-<span
-  width="100%"
-  aling="center"
-  src="./assets/curriculum/Curriculum-Fernando.md"
->
-  curriculum
-</span>
+[curriculum](./assets/curriculum/Curriculum-Fernando.md)
 
 ## About
 I working with JavaScript, TypeScript and DotNet. Interested in exploring multiplatform solutions, including web, desktop, and mobile. Open to new learning opportunities and collaborations, let’s connect to discuss how I can contribute to your team’s success!
