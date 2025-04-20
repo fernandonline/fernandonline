@@ -1,5 +1,5 @@
 <a href="https://fernando-online.web.app" >
-  <img width="100%" border="0" src="./assets/banner/fernando-banner-up.jpg"/>
+  <img width="100%" src="./assets/banner/fernando-banner-up.jpg"/>
 </a>
 
 ## About
