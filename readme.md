@@ -5,7 +5,7 @@
 ## About
 I working with JavaScript, TypeScript and DotNet. Interested in exploring multiplatform solutions, including web, desktop, and mobile. Open to new learning opportunities and collaborations, let’s connect to discuss how I can contribute to your team’s success!
 
-<span>[curriculum](./assets/curriculum/curriculum-fernando.pdf)</span>
+<span>[curriculum](./assets/curriculum-fernando.pdf)</span>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonline&layout=compact&bg_color=00000000&title_color=EBEBEA&text_color=FFF&hide_border=true" width="48%">
