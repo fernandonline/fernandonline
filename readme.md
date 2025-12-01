@@ -4,7 +4,7 @@
 
 ## About
 Full stack developer, working with JavaScript and .NET, Interested in exploring multiplatform solutions, including web, desktop, and mobile. 
-Open to new learning opportunities and collaborations, click here to see my [<img src="https://img.shields.io/badge/%20Resume-000000.svg?style=for-the-badge&logo=&logoColor=white" height="25" align="absmiddle"/>](./assets/Curriculo_Luiz_Fernando.pdf)
+Open to new learning opportunities and collaborations, click here to see my [<img src="https://img.shields.io/badge/%20Resume-000000.svg?style=for-the-badge&logo=&logoColor=white" height="25" align="absmiddle"/>](./assets/resume/fernando-resume-es.pdf)
 
 
 <div align="center">
