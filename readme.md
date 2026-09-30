@@ -3,7 +3,7 @@
 </a>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:fernandonline" />
+  <img src="https://count.getloli.com/@fernandonline?name=fernandonline&theme=moebooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0" />
 </div>
 
 ###
