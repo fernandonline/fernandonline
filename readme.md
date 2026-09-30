@@ -3,11 +3,10 @@
 </a>
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@fernandonline?theme=moebooru" />
+  <img src="https://count.getloli.com/@:fernandonline" />
 </div>
 
 ###
-
 
 <div>
   
