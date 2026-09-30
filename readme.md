@@ -2,7 +2,12 @@
   <img width="100%" src="./assets/banner/fernando-banner-up.jpg"/>
 </a>
 
+<div align="center">
+  <img src="https://count.getloli.com/get/@fernandonline?theme=moebooru" />
+</div>
+
 ###
+
 
 <div>
   
